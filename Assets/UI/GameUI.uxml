@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;">
+        <ui:Label tabindex="-1" text="Health: 0" parse-escape-sequences="true" display-tooltip-when-elided="true" name="health" style="font-size: 20px;" />
+        <ui:Label tabindex="-1" text="Points: 0" parse-escape-sequences="true" display-tooltip-when-elided="true" name="points" style="font-size: 20px;" />
+    </ui:VisualElement>
+</ui:UXML>

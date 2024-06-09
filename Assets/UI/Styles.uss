@@ -1,0 +1,25 @@
+VisualElement {
+}
+
+.upgrade-btn {
+    width: 200px;
+    height: 100px;
+    font-size: 16px;
+}
+
+.level {
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+    align-self: auto;
+}
+
+.btn-container {
+    flex-direction: row;
+    justify-content: center;
+}
+
+.active {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgb(143, 255, 156);
+}
